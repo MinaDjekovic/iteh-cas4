@@ -1,4 +1,5 @@
 Šta naš api radi?
+
 Naš API omogućava manipulaciju podacima u okviru baze 'rest' u kojoj su sačuvane novosti i kategorije novosti. Imamo definisane GEP/POST/PUT/DELETE rute za oba resursa korišćenjem Method Routing-a.
 
 
